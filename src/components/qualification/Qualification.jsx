@@ -35,7 +35,7 @@ const Qualification = () => {
             onClick={() => toggleTab(2)}
           >
             <i className="uil uil-briefcase-alt qualification__icon"></i>
-            Experience
+            Internship Experience
           </div>
         </div>
         <div className="qualification__sections">
@@ -57,7 +57,7 @@ const Qualification = () => {
                   Chiang Rai Rajabhat University (CRRU)
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2019 - 2023
+                  <i className="uil uil-calendar-alt"></i> Jun 2019 - Nov 2023
                 </div>
                 <div className="qualification__award">
                   <i className="bx bx-award"></i> GPAX 3.69/4.00

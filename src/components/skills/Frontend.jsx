@@ -57,14 +57,7 @@ const Backend = () => {
             <div className="skills__data">
               <i className="bx bxs-badge-check"></i>
               <div>
-                <h3 className="skills__name">Docker</h3>
-              </div>
-            </div>
-
-            <div className="skills__data">
-              <i className="bx bxs-badge-check"></i>
-              <div>
-                <h3 className="skills__name">Postman</h3>
+                <h3 className="skills__name">GitLab</h3>
               </div>
             </div>
           </div>
@@ -73,21 +66,14 @@ const Backend = () => {
             <div className="skills__data">
               <i className="bx bxs-badge-check"></i>
               <div>
-                <h3 className="skills__name">Dbeaver</h3>
+                <h3 className="skills__name">Docker</h3>
               </div>
             </div>
 
             <div className="skills__data">
               <i className="bx bxs-badge-check"></i>
               <div>
-                <h3 className="skills__name">Linux</h3>
-              </div>
-            </div>
-
-            <div className="skills__data">
-              <i className="bx bxs-badge-check"></i>
-              <div>
-                <h3 className="skills__name">Git</h3>
+                <h3 className="skills__name">GitHub</h3>
               </div>
             </div>
           </div>

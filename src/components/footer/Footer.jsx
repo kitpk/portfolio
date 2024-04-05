@@ -28,6 +28,12 @@ const Footer = () => {
           </li>
 
           <li>
+            <Link to="experience" spy={true} className="footer__link">
+            Experience
+            </Link>
+          </li>
+
+          <li>
             <Link to="portfolio" spy={true} className="footer__link">
               Portfolio
             </Link>
@@ -52,9 +58,6 @@ const Footer = () => {
           </a>
         </div>
 
-        <span className="footer__copy">
-          &#169; Crypticalcoder. All rigths reserved
-        </span>
         <span className="footer__copy">
           Design inspired by Cryptical Coder YouTube.
         </span>

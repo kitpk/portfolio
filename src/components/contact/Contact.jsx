@@ -33,9 +33,9 @@ const Contact = () => {
         <div className="contact__content">
           <div className="contact__info">
             <div className="contact__card">
-              <i className="bx bx-home contact__card-icon"></i>
+              <i className="bx bx-map contact__card-icon"></i>
               <h3 className="contact__card-title">Location</h3>
-              <span className="contact__card-data">Chiang Rai, Thailand</span>
+              <span className="contact__card-data">Bangkok, Thailand</span>
             </div>
           </div>
         </div>

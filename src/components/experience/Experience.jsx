@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './experience.css';
-import Exp1 from '../../../assets/crrulogo.jpg';
-import Exp2 from '../../../assets/dialogo.png';
-import Exp3 from '../../../assets/pttlogo.png';
+import Exp1 from '../../assets/crrulogo.jpg';
+import Exp2 from '../../assets/dialogo.png';
+import Exp3 from '../../assets/pttlogo.png';
 
 const Experience = () => {
   const [toggleState, setToggleState] = useState(0);
